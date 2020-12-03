@@ -1,4 +1,4 @@
-# Portfolio
+# <center>Portfolio</center>
 
 ## Projects
 1. [Text-2-Strokes (Handwriting Synthesis)](https://github.com/rahul96rajan/text-2-strokes)
