@@ -3,7 +3,7 @@
 ## [Projects](https://github.com/rahul96rajan/portfolio/blob/main/README.md)
 1. [Text-2-Strokes (Handwriting Synthesis)](https://github.com/rahul96rajan/text-2-strokes)
 2. 
-3. 
+3. [SoilHealthCard Scrapper](https://github.com/rahul96rajan/SHC-scrapper)
 4. [Tess4JGUI (OCR)](https://github.com/rahul96rajan/tess4jGUI)
 
 ## [Short Projects](https://github.com/rahul96rajan/short_projects)
