@@ -1,6 +1,6 @@
 # Portfolio
 
-## [Projects]()
+## [Projects](https://github.com/rahul96rajan/portfolio/blob/main/README.md)
 1. [Text-2-Strokes (Handwriting Synthesis)](https://github.com/rahul96rajan/text-2-strokes)
 2. 
 3. 
