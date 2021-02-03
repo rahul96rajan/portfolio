@@ -14,4 +14,4 @@
 
 
 ## Case Studies
-1. [Loan Approval Status](https://github.com/rahul96rajan/ML-case-studies/blob/master/Loan-Prediction-Case-Study.ipynb)
+1. [Loan Approval Status](https://www.kaggle.com/rahul96rajan/your-first-ml-case-study-loan-approval)
